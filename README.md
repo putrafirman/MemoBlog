@@ -1,3 +1,11 @@
+Resource:
+
+* Tutorial  : [http://allandenot.com/development/2015/01/11/blogging-like-a-dev-jekyll-github-prose-io.html](Allandenot)
+* Base code : [https://github.com/hmfaysal/Notepad/tree/gh-pages](Notepad Jekyll Theme)
+
+
+========
+
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
 Main Features:
