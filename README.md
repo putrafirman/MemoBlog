@@ -1,7 +1,7 @@
 Resource:
 
-* Tutorial  : [http://allandenot.com/development/2015/01/11/blogging-like-a-dev-jekyll-github-prose-io.html](Allandenot)
-* Base code : [https://github.com/hmfaysal/Notepad/tree/gh-pages](Notepad Jekyll Theme)
+* Tutorial  : [http://allandenot.com/development/2015/01/11/blogging-like-a-dev-jekyll-github-prose-io.html](http://allandenot.com/development/2015/01/11/blogging-like-a-dev-jekyll-github-prose-io.html)
+* Base code : [https://github.com/hmfaysal/Notepad/tree/gh-pages](https://github.com/hmfaysal/Notepad/tree/gh-pages)
 
 
 ========
